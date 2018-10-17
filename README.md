@@ -28,4 +28,4 @@ to run in debug mode
     ```
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/pokupon-deamon.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rx-ter/site_availability_checker.
