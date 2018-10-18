@@ -1,5 +1,5 @@
 {
     "scripts": {
-      "postdeploy": "ruby lib/server_control run"
+      "postdeploy": "ruby lib/server_control.rb start"
     }
   }

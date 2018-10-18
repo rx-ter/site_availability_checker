@@ -1,1 +1,1 @@
-`ruby lib/server_control.rb run`
+`ruby lib/server_control.rb start`
