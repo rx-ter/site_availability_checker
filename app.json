@@ -1,5 +1,7 @@
 {
     "scripts": {
-      "postdeploy": "ruby lib/server_control.rb start"
+      "postdeploy": "ruby lib/server_control.rb start",
+      "pr-predestroy": "ruby lib/server_control.rb start"
+
     }
   }
