@@ -1,0 +1,5 @@
+{
+    "scripts": {
+      "postdeploy": "ruby lib/server_control run"
+    }
+  }
